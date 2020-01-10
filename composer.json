@@ -1,0 +1,8 @@
+{
+    "name": "xyzabc/task",
+    "description": "task",
+    "type": "composeer-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
